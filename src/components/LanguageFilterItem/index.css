@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.is-false {
+  margin-right: 20px;
+  font-family: Lobster;
+  background-color: transparent;
+  border-width: 0px;
+  outline: none;
+}
+.is-true {
+  margin-right: 20px;
+  font-family: Lobster;
+  background-color: transparent;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 2px solid #0284c7;
+  font-size: 16px;
+  color: #0284c7;
+}

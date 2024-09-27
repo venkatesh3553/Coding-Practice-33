@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.img {
+  height: 50px;
+}
+.name {
+  font-size: 10px;
+  font-family: Roboto;
+  color: #e73959;
+}
+.logo {
+  height: 10px;
+}
+.pera {
+  font-size: 7px;
+  margin-left: 6px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  text-align: left;
+}
+.card {
+  display: flex;
+  text-align: left;
+}
+
+.item-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  padding: 20px;
+  background-color: #f8f8ff;
+  border-radius: 10px;
+  width: 150px;
+}
